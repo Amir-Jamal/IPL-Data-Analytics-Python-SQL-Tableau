@@ -58,15 +58,17 @@ Interactive Tableau Dashboards
 
 ### 🏏 IPL Match Analysis & Team Performance
 
-![IPL Match Dashboard](Dashboard%20Screenshots/1.IPL%20Match%20Analysis%20%26%20Team%20Performance.png)
+![IPL Match Dashboard](Dashboard%20Screenshots/match_dashboard.png)
+
+This dashboard provides insights into team performance, match outcomes, toss decisions, venue analysis, and season-wise trends.
 
 ---
 
 ### 👤 IPL Player Performance Analytics Dashboard
 
-![IPL Player Dashboard](Dashboard%20Screenshots/2.IPL%20Player%20Performance%20Analytics%20Dashboard.png)
+![IPL Player Dashboard](Dashboard%20Screenshots/player_dashboard.png)
 
----
+This dashboard highlights top batsmen, leading wicket-takers, players with the most fours and sixes, along with interactive player-level analysis.
 
 ## 🔍 Key Insights
 

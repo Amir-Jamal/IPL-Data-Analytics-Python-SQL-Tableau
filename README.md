@@ -72,6 +72,13 @@ This dashboard highlights top batsmen, leading wicket-takers, players with the m
 
 ---
 
+## 🌐 Live Dashboards
+
+- 🏏 Match Analysis Dashboard: [[Tableau Public Link](https://public.tableau.com/app/profile/amir.jamal/viz/IPLMatchesDashboard2/iplmatchanalysisDashboard)]
+- 👤 Player Performance Dashboard: [[Tableau Public Link](https://public.tableau.com/app/profile/amir.jamal/viz/IPL_Player_Performance_Analysis/Dashboard1)]
+
+---
+
 ## 🔍 Key Insights
 
 - Mumbai Indians emerged as the most successful team based on total match wins.

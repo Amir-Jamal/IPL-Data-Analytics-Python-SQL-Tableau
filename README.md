@@ -79,6 +79,58 @@ This dashboard highlights top batsmen, leading wicket-takers, players with the m
 
 ---
 
+# 🗄️ SQL Analysis
+
+The project includes SQL-based analysis to answer key business questions and uncover insights from the IPL dataset.
+
+## 🏟️ Highest Wins by Venue
+
+![Highest Wins by Venue](SQL%20ANALYZE/01_Highest_Wins_By_Venue.png)
+
+---
+
+## 📅 Matches Played by Season
+
+![Matches Played by Season](SQL%20ANALYZE/02_Matches_Played_By_Season.png)
+
+---
+
+## ⭐ Most Player of the Match Awards
+
+![Most Player of the Match Awards](SQL%20ANALYZE/03_Most_Player_of_the_Match_Awards.png)
+
+---
+
+## 👥 Total Number of Teams
+
+![Total Number of Teams](SQL%20ANALYZE/04_Total_Number_of_Teams.png)
+
+---
+
+## 🏏 Total Matches Played
+
+![Total Matches Played](SQL%20ANALYZE/05_Total_Matches_Played.png)
+
+---
+
+## 🏆 Teams with Most Wins
+
+![Teams with Most Wins](SQL%20ANALYZE/06_Teams_With_Most_Wins.png)
+
+---
+
+## 📍 Top Venues by Matches Hosted
+
+![Top Venues by Matches Hosted](SQL%20ANALYZE/07_Top_Venues_By_Matches_Hosted.png)
+
+---
+
+## 🪙 Toss Impact Analysis
+
+![Toss Impact Analysis](SQL%20ANALYZE/08_Toss_Impact_Analysis.png)
+
+---
+
 ## 🔍 Key Insights
 
 - Mumbai Indians emerged as the most successful team based on total match wins.
